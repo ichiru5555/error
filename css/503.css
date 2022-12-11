@@ -1,0 +1,14 @@
+html {
+    text-align: center;
+    background-color: #99CC99;
+}
+.error{color:red}
+.error-1{
+    color: #99FF33;
+}
+.error-2{
+    color:maroon;
+}
+.error-3{
+    color: aqua;
+}
