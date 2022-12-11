@@ -1,13 +1,4 @@
-html{
-    background-color: #336666;
-    text-align: center;
-}
-.error {
-    color: red;
-}
-.error-1{
-    color:aqua;
-}
-.erorr-2{
-    color: green;
-}
+html{background-color: #336666; text-align: center;}
+.error {color: red;}
+.error-1{color:aqua;}
+.erorr-2{color: green;}
