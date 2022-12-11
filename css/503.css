@@ -5,3 +5,5 @@ html {text-align: center; background-color: #99CC99;}
 .error-3{color: aqua;}
 .error-4{color:#191989;}
 .error-5{color:#9999FF;}
+.box{padding: 0.5em 1em;margin: 2em 0;border: double 5px #33FF33;background-color: #CC99FF;}
+.box p{margin: 0;padding: 0;}
